@@ -25,3 +25,8 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 3. Open `src/main.ts` in VSCode
 4. Open the VSCode command palette
 5. Search and run "Select TypeScript version" -> "Use workspace version"
+
+----------
+There is a template for typescript named vue-ts. So running npm init @vitejs/app my-vue-app -- --template vue-ts sets up a typescript vite project.
+(https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
+(https://stackoverflow.com/questions/63724523/how-to-add-typescript-to-vue-3-and-vite-project)
